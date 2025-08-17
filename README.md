@@ -1,12 +1,12 @@
-# AdClarity AI
+# 🧠 AdClarity AI
 
-> ✨ Understand why you’re seeing online ads — powered by LLMs.
+> Understand why you’re seeing online ads, powered by LLMs.
 
 ---
 
-## 🧠 Project Summary
+## ✨ Project Summary
 
-**AdClarity AI** is a lightweight Chrome extension that explains why a user is seeing a specific ad on platforms like LinkedIn. By analyzing ad copy and context, it uses large language models (LLMs) to infer likely targeting logic and advertiser intent — giving users transparent insights into their online ad experience.
+**AdClarity AI** is a lightweight Chrome extension that explains why a user is seeing a specific ad on platforms like LinkedIn. By analyzing ad copy and context, it uses large language models (LLMs) to infer likely targeting logic and advertiser intent, giving users transparent insights into their online ad experience.
 
 ---
 
@@ -63,5 +63,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 Licensed under the MIT License.
 """
+
 
 
