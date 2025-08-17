@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Project Summary
+## ✨ Overview
 
 **AdClarity AI** is a lightweight Chrome extension that explains why a user is seeing a specific ad on platforms like LinkedIn. By analyzing ad copy and context, it uses large language models (LLMs) to infer likely targeting logic and advertiser intent, giving users transparent insights into their online ad experience.
 
@@ -70,6 +70,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Enjoy building! 🎯
+
 
 
 
