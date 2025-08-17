@@ -1,0 +1,8 @@
+# Prevent secrets or system files from being tracked
+node_modules/
+config.js
+.env
+.DS_Store
+*.log
+.vscode/
+llm/secrets.js
