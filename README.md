@@ -1,6 +1,3 @@
-from pathlib import Path
-
-readme_content = """
 # AdClarity AI
 
 > ✨ Understand why you’re seeing online ads — powered by LLMs.
@@ -66,4 +63,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 Licensed under the MIT License.
 """
+
 
