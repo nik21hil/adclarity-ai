@@ -1,5 +1,5 @@
 console.log("🔋 Background service worker loaded.");
-importScripts("llm/secrets.js");
+import { OPENAI_API_KEY } from './llm/secrets.js';
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.type === "explain-ad" && request.adText) {
