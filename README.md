@@ -25,7 +25,7 @@
 
 1. Clone or download this repository.
 2. In Chrome, go to `chrome://extensions/` and enable **Developer mode**.
-3. Click **Load unpacked**, and select the project directory (e.g., `adclarity-ai-clean`).
+3. Click **Load unpacked**, and select the project directory (e.g., `adclarity-ai`).
 4. Pin the extension to your toolbar.
 5. Navigate to LinkedIn, click on any ad, and hit the extension icon to see the magic!
 
@@ -38,13 +38,6 @@
 - **OpenAI API (GPT-3.5-Turbo)**
 - HTML + CSS for popup UI
 
----
-
-## 📸 Demo
-
-<img src="assets/demo.gif" alt="AdClarity AI Demo" width="600"/>
-
-_Or add a screenshot here if you don't have a GIF yet._
 
 ---
 
@@ -57,12 +50,30 @@ We've moved the key to a `secrets.js` file that is **excluded via `.gitignore`**
 
 ---
 
-## 🤝 Contribution & License
+## 🤝 **Contributing**
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+Contributions are welcome. Please open an issue or pull request to discuss improvements, features, or bug fixes.
 
-Licensed under the MIT License.
-"""
+---
+
+## 📄 **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🌐 **Author**
+
+**Nikhil Singh**  
+[GitHub](https://github.com/nik21hil) | [LinkedIn](https://www.linkedin.com/in/nkhlsngh/)
+
+---
+
+Enjoy building! 🎯
+
+
+
+
 
 
 
